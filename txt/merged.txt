@@ -2049,7 +2049,7 @@ Test,#genre#
 [HD]韩国电影3,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 电影,#genre#
 [SD]CCM,https://epg.pw/stream/9c7cc0495f2dc84aec30c4fa6f21b9a244a270c9cef962d5e8ae1e201960e427.ctv
-[BD]cctv11[ipv6],https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
+[HD]cctv11,https://epg.pw/stream/1b897c654abc2a54a6ed0a683963a82e1dd597d18a7a4d12b37454d1d0371d0a.m3u8
 [BD]cctv-6,https://epg.pw/stream/a444025fe5f72f64385141ec6895e9c9334a553582a392460b341523decc868d.ctv
 [BD]cctv-8,https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8
 [BD]chc家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
@@ -2125,12 +2125,12 @@ Test,#genre#
 
 新闻,#genre#
 [BD]cctv13[ipv6],https://epg.pw/stream/03708eabf767c88c351b767a1f625c4a6a26af598b506db563767d59720bf332.m3u8
-[BD]cctv2,https://epg.pw/stream/c4fe654287b623b12ae8998e38958ca0fd85d5359f11587722174cb38b6318c8.m3u8
+[BD]cctv2[ipv6],https://epg.pw/stream/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8
 [BD]cctv4[ipv6],https://epg.pw/stream/43229ec03f2ba5352c33770df9061aa26a5624068b51b1c1ed9ab98c9109acf6.m3u8
 [BD]cctv 兵器科技,https://epg.pw/stream/d78828d0dc1b036e14547a19e1b91d0d8d11868dc25749fe85aadecc1e0b646a.m3u8
 [BD]cgtn[ipv6],https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.m3u8
 [BD]cctv 4k[ipv6],https://epg.pw/stream/f207db30ca721ab30d992aa5eb745ebe1c55c987cf51181985ea53f42e586ee9.m3u8
-[VGA]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
+[HD]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 [SD]丘北新闻综合,https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [VGA]亳州新闻频道,https://epg.pw/stream/cf7447d98fc73c8791cfc7032f6c35ba0dd41c3fcce500284f242c23fe55eb19.m3u8
 [BD]宿州新闻综合,https://epg.pw/stream/241171224fda0ca651365ac3e52e9762b114e9fa2176bd37c17a85eba975b6c8.m3u8
@@ -2313,7 +2313,7 @@ Music,#genre#
 [BD]rkb news 24,https://epg.pw/stream/5c0a5e9b24538982f2adc32190019a57ce3b22128142d163af46657413602453.m3u8
 
 综合,#genre#
-[SD]内蒙古卫视,https://epg.pw/stream/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.m3u8
+[BD]内蒙古卫视,https://epg.pw/stream/257b62e44b49294fba69f1d5689725632ae7d24594234533f23ee7cc1cc49c63.m3u8
 [BD]北京卫视[ipv6],https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8
 [BD]吉林卫视[ipv6],https://epg.pw/stream/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8
 [BD]四川卫视,https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.ctv
@@ -2342,7 +2342,7 @@ Music,#genre#
 [BD]贵州卫视,https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv
 [VGA]辽宁卫视,https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
 [BD]重庆卫视[ipv6],https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
-[SD]陕西卫视,https://epg.pw/stream/a7b458a7ff6ccdd60304819323337e2835d8ea50887d423659e0eb0ec0118a65.m3u8
+[BD]陕西卫视[ipv6],https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
 [BD]青海卫视,https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv
 [BD]黑龙江卫视,https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8
 
@@ -14525,7 +14525,7 @@ BRTV财经[高清],http://192.168.123.1:23234/rtp/239.3.1.116:8000
 BRTV生活[高清],http://192.168.123.1:23234/rtp/239.3.1.117:8000
 BRTV纪实科教[高清],http://192.168.123.1:23234/rtp/239.3.1.115:8000
 BRTV卡酷少儿[高清],http://192.168.123.1:23234/rtp/239.3.1.189:8000
-BRTV体育休闲[超清],http://192.168.123.1:23234/rtp/239.3.1.243:8000
+BRTV体育休闲[高清],http://192.168.123.1:23234/rtp/239.3.1.243:8000
 BRTV国际频道[高清],http://192.168.123.1:23234/rtp/239.3.1.235:8000
 CCTV-1 综合[高清],http://192.168.123.1:23234/rtp/239.3.1.129:8008
 CCTV-2 财经[高清],http://192.168.123.1:23234/rtp/239.3.1.60:8084
@@ -14659,7 +14659,7 @@ BRTV财经[高清],rtp://239.3.1.116:8000
 BRTV生活[高清],rtp://239.3.1.117:8000
 BRTV纪实科教[高清],rtp://239.3.1.115:8000
 BRTV卡酷少儿[高清],rtp://239.3.1.189:8000
-BRTV体育休闲[超清],rtp://239.3.1.243:8000
+BRTV体育休闲[高清],rtp://239.3.1.243:8000
 BRTV国际频道[超清],rtp://239.3.1.235:8000
 CCTV-1 综合[高清],rtp://239.3.1.129:8008
 CCTV-2 财经[高清],rtp://239.3.1.60:8084
