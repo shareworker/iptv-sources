@@ -91,56 +91,46 @@
 | 85 | 新闻资讯 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8> |
 | 86 | 都市青春 | 中国移动陕西 | <http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8> |
 | 87 | 西安教育 | 中国移动陕西 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8> |
-| 88 | CETV-1 | IPv4 直链 | <http://121.19.134.246:808/hls/62/index.m3u8> |
-| 89 | 河北经济 | IPv4 直链 | <http://121.19.134.246:808/hls/20/index.m3u8> |
-| 90 | 河北都市 | IPv4 直链 | <http://121.19.134.246:808/hls/21/index.m3u8> |
-| 91 | 河北影视 | IPv4 直链 | <http://121.19.134.246:808/hls/22/index.m3u8> |
-| 92 | 少儿科教 | IPv4 直链 | <http://121.19.134.246:808/hls/23/index.m3u8> |
-| 93 | 河北公共 | IPv4 直链 | <http://121.19.134.246:808/hls/24/index.m3u8> |
-| 94 | 河北农民 | IPv4 直链 | <http://121.19.134.246:808/hls/25/index.m3u8> |
-| 95 | 石家庄都市 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/dushi/playlist.m3u8> |
-| 96 | 石家庄生活 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8> |
-| 97 | 石家庄娱乐 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/yule/playlist.m3u8> |
-| 98 | 邯郸科教 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8> |
-| 99 | 邯郸新闻 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8> |
-| 100 | 邯郸公共 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8> |
-| 101 | 邢台综合 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8> |
-| 102 | 邢台城生 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8> |
-| 103 | 任丘文娱 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8> |
-| 104 | 兴隆综合 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8> |
-| 105 | 山西经济 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8> |
-| 106 | 山西影视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8> |
-| 107 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
-| 108 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
-| 109 | 南京新综 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8> |
-| 110 | 梨园频道 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
-| 111 | 乐游频道 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8> |
-| 112 | 求索动物 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3> |
-| 113 | 求索生活 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3> |
-| 114 | 求索科学 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3> |
-| 115 | 求索纪录 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3> |
-| 116 | 动作电影 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 117 | 家庭影院 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 118 | 高清电影 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 119 | 华数超清 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId> |
-| 120 | 超级综艺 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8> |
-| 121 | 超级体育 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8> |
-| 122 | 超级电影 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8> |
-| 123 | 超级视剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8> |
-| 124 | 东北热剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
-| 125 | 海外剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8> |
-| 126 | 中国功夫 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8> |
-| 127 | 军旅剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8> |
-| 128 | 惊悚悬疑 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8> |
-| 129 | 潮妈辣婆 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8> |
-| 130 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
-| 131 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
-| 132 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
-| 133 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
-| 134 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
-| 135 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
-| 136 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
-| 137 | 魅力潇湘 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3> |
-| 138 | 精品萌宠 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3> |
+| 88 | 河北经济 | IPv4 直链 | <http://121.19.134.246:808/hls/20/index.m3u8> |
+| 89 | 河北都市 | IPv4 直链 | <http://121.19.134.246:808/hls/21/index.m3u8> |
+| 90 | 河北影视 | IPv4 直链 | <http://121.19.134.246:808/hls/22/index.m3u8> |
+| 91 | 少儿科教 | IPv4 直链 | <http://121.19.134.246:808/hls/23/index.m3u8> |
+| 92 | 河北公共 | IPv4 直链 | <http://121.19.134.246:808/hls/24/index.m3u8> |
+| 93 | 河北农民 | IPv4 直链 | <http://121.19.134.246:808/hls/25/index.m3u8> |
+| 94 | 山西经济 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8> |
+| 95 | 山西影视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8> |
+| 96 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
+| 97 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
+| 98 | 南京新综 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8> |
+| 99 | CETV-1 | IPv4 直链 | <http://121.19.134.246:808/hls/62/index.m3u8> |
+| 100 | 梨园频道 | IPv6 直链 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
+| 101 | 乐游频道 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8> |
+| 102 | 求索动物 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3> |
+| 103 | 求索生活 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3> |
+| 104 | 求索科学 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3> |
+| 105 | 求索纪录 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3> |
+| 106 | 动作电影 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 107 | 家庭影院 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 108 | 高清电影 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 109 | 华数超清 | IPv6 直链 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId> |
+| 110 | 超级综艺 | 中国移动陕西 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8> |
+| 111 | 超级体育 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8> |
+| 112 | 超级电影 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8> |
+| 113 | 超级视剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8> |
+| 114 | 东北热剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
+| 115 | 海外剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8> |
+| 116 | 中国功夫 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8> |
+| 117 | 军旅剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8> |
+| 118 | 惊悚悬疑 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8> |
+| 119 | 潮妈辣婆 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8> |
+| 120 | 精品体育 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8> |
+| 121 | 精品纪录 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8> |
+| 122 | 家庭剧场 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8> |
+| 123 | 精品大剧 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8> |
+| 124 | 军事评论 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8> |
+| 125 | 明星大片 | 中国移动黑龙江 | <http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8> |
+| 126 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
+| 127 | 魅力潇湘 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3> |
+| 128 | 精品萌宠 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3> |
 
-Updated at **Wed Mar 13 2024 06:09:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 13 2024 08:08:10 GMT+0000 (Coordinated Universal Time)**
